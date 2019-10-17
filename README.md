@@ -9,6 +9,18 @@ For the code side of this project, head over to AdricL's Git: https://github.com
 
 ## Media Mentions
 
+### Version 1-0 2018
+
+Hackaday:
+
+[https://hackaday.com/2018/11/29/saucebot-uses-g-code-to-apply-condiments-with-precision](Saucebot Uses G-Code To Apply Condiments With Precision)
+
+WBOC16 - Delmarva's News Leader:
+
+[Condiments Market 2019 By Size, Share, Production and Consumption Analysis, Brands Statistics Overview, Top Manufacturers, Forecast to 2024](http://www.wboc.com/story/41071845/condiments-market-2019-by-size-share-production-and-consumption-analysis-brands-statistics-overview-top-manufacturers-forecast-to-2024)
+
+### Version 1-5 2019
+
 Reddit:
 
 [r/australia - SauceBot takes Bunnings sausage sizzles to the next level](https://old.reddit.com/r/australia/comments/de0btj/saucebot_takes_bunnings_sausage_sizzles_to_the/)
@@ -27,6 +39,4 @@ Channel 10:
 
 [Someone Made A 'Saucebot' For Their Bunnings Sausage Sizzle](https://10daily.com.au/news/tech/a191007rohyj/someone-made-a-saucebot-for-their-bunnings-sausage-sizzle-20191007?fbclid=IwAR2HXt05vjLzIm-YCo1LVYoBCBaRIMxrj1NlD6e1MZVaIO5cQUyNSa1cRYI)
 
-WBOC16 - Delmarva's News Leader:
 
-[Condiments Market 2019 By Size, Share, Production and Consumption Analysis, Brands Statistics Overview, Top Manufacturers, Forecast to 2024](http://www.wboc.com/story/41071845/condiments-market-2019-by-size-share-production-and-consumption-analysis-brands-statistics-overview-top-manufacturers-forecast-to-2024)
