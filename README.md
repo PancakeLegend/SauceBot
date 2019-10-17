@@ -13,7 +13,7 @@ For the code side of this project, head over to AdricL's Git: https://github.com
 
 Hackaday:
 
-[https://hackaday.com/2018/11/29/saucebot-uses-g-code-to-apply-condiments-with-precision](Saucebot Uses G-Code To Apply Condiments With Precision)
+[https://hackaday.com/2018/11/29/saucebot-uses-g-code-to-apply-condiments-with-precision] (Saucebot Uses G-Code To Apply Condiments With Precision)
 
 WBOC16 - Delmarva's News Leader:
 
