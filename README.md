@@ -9,7 +9,7 @@ For the code side of this project, head over to AdricL's Git: https://github.com
 
 ## Media Mentions
 
-### Version 1-5 2019
+### v1-5 (2019)
 
 Reddit:
 
@@ -29,7 +29,7 @@ Channel 10:
 
 [Someone Made A 'Saucebot' For Their Bunnings Sausage Sizzle](https://10daily.com.au/news/tech/a191007rohyj/someone-made-a-saucebot-for-their-bunnings-sausage-sizzle-20191007?fbclid=IwAR2HXt05vjLzIm-YCo1LVYoBCBaRIMxrj1NlD6e1MZVaIO5cQUyNSa1cRYI)
 
-### Version 1-0 2018
+### v1-0 (2018)
 
 Hackaday:
 
