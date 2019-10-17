@@ -5,6 +5,7 @@ An open sauce sausage saucing robot
 
 SauceBot at ScienceWorks Robotica - March 2019
 
+For the code side of this project, head over to AdricL's Git: https://github.com/adricl/Marlin_SauceBot
 
 ## Media Mentions
 
