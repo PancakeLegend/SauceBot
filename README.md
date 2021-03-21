@@ -9,6 +9,8 @@ SauceBot at ScienceWorks Robotica - March 2019
 
 For the code side of this project, head over to AdricL's Git: https://github.com/adricl/Marlin_SauceBot
 
+Except where otherwise noted, this work is available under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
 
+<img src="https://i.imgur.com/T1dZok0.png" width="143" height="50">
 
 
